@@ -1,0 +1,3 @@
+/* 
+Sakila is a databse used to collect information about movies and customers for use by store management. 
+*/
